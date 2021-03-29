@@ -1,0 +1,36 @@
+{
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[markdown]": {
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"editor.wordWrap": "wordWrapColumn",
+		"editor.insertSpaces": true
+	},
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.minimap.maxColumn": 100,
+	"editor.rulers": [
+		100
+	],
+	"editor.semanticHighlighting.enabled": true,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "bounded",
+	"editor.wordWrapColumn": 100,
+	"explorer.compactFolders": false,
+	"explorer.confirmDelete": true,
+	"files.associations": {
+		"*.animeproj": "json",
+		"*.mohoproj": "json"
+	},
+	"git.autofetch": true,
+	"git.autorefresh": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"path-intellisense.autoSlashAfterDirectory": true,
+}

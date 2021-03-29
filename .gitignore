@@ -1,0 +1,29 @@
+# DS_Store
+*.DS_Store
+Desktop.ini
+.AppleDouble
+.LSOverride
+# Thumbnail cache files
+._*
+Thumbs.db
+
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.Spotlight-V100
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
