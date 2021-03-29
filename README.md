@@ -2,6 +2,8 @@
 
 Given that some documentation for Moho is hard to find, I have included it here for reference.
 
+[Forum post](https://www.lostmarble.com/forum/viewtopic.php?t=33865) for this repository.
+
 - [Moho 13 Users Manual](<docs/Moho 13 Users Manual.pdf>)
 - [Moho 13 Changelog](<docs/Moho 13 Changelog.md>)
 - [Anime Studio/Moho Document File Format Guide](docs/AnimeStudio-Moho-DocumentFileFormat.pdf)
